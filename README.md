@@ -1,5 +1,10 @@
 # Awesome Python Codemods [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+This is mainly a self reference, but feel free to use it as well! 🤗
+
+Honestly, I don't think the Python ecosystem has a lot of codemods, or references to work with them.
+So, I decided to create this repository to keep track of the ones I find. 😄
+
 ## Codemods
 
 - [Bump TestClient]: Replace Starlette's TestClient from `requests` to `httpx`! 🎉
