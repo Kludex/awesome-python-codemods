@@ -12,5 +12,8 @@ So, I decided to create this repository to keep track of the ones I find. 😄
 
 ## Packages
 
+- [LibCST-Mypy]: Type inference provider using mypy for LibCST! ✨
+
 [Bump TestClient]: https://github.com/Kludex/bump-testclient
 [No Optional]: https://github.com/Kludex/no-optional
+[LibCST-Mypy]: https://github.com/Kludex/libcst-mypy
