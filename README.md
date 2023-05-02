@@ -9,6 +9,7 @@ So, I decided to create this repository to keep track of the ones I find. 😄
 
 - [Bump TestClient]: Replace Starlette's TestClient from `requests` to `httpx`! 🎉
 - [No Optional]: Replace `Optional[T]` by `Union[T, None]` 👀
+- [Only Relative Import]: Only allow relative imports! 😅
 
 ## Packages
 
@@ -17,3 +18,4 @@ So, I decided to create this repository to keep track of the ones I find. 😄
 [Bump TestClient]: https://github.com/Kludex/bump-testclient
 [No Optional]: https://github.com/Kludex/no-optional
 [LibCST-Mypy]: https://github.com/Kludex/libcst-mypy
+[Only Relative Import]: https://github.com/Kludex/only-relative-import
